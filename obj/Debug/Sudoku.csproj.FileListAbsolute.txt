@@ -1,0 +1,24 @@
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.Properties.Resources.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\bin\Sudoku.exe.config
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\bin\Sudoku.exe
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\bin\Sudoku.pdb
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.exe
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.pdb
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.Welcome.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.Setter.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.Solver.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\bin\Sudoku.exe.config
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\obj\Debug\Sudoku.exe
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\obj\Debug\Sudoku.pdb
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\bin\Sudoku.exe
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\bin\Sudoku.pdb
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\obj\Debug\Sudoku.Setter.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\obj\Debug\Sudoku.Solver.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\obj\Debug\Sudoku.Welcome.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\obj\Debug\Sudoku.Properties.Resources.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku -B\obj\Debug\Sudoku.csproj.GenerateResource.Cache
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.General_Option.resources
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.csprojResolveAssemblyReference.cache
+F:\CS Department\.00001 Sudoku\001 - Codes\Sudoku\obj\Debug\Sudoku.Color_Setting.resources
